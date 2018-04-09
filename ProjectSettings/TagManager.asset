@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Checkpoint
   - Enemy
+  - BuildSite
+  - GroundSite
+  - Tower
+  - BuildSiteFull
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -45,4 +50,7 @@ TagManager:
     locked: 0
   - name: Items
     uniqueID: 1463657403
+    locked: 0
+  - name: Units
+    uniqueID: 529419941
     locked: 0
